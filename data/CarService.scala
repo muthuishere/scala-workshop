@@ -1,10 +1,11 @@
-package mockclasses
+package functional
+
 
 import scala.collection.mutable.ListBuffer
 
 object CarService {
 
-  def getAllCars() ={
+  def getAllCars():List[Car] ={
     var cars = new ListBuffer[Car]()
     cars += new Car(1,"Volvo XC40  ","Volvo",2017,"Diesel","Automatic");
     cars += new Car(2,"Volvo XC60  ","Volvo",2017,"Diesel","Automatic");
@@ -107,6 +108,7 @@ object CarService {
     cars += new Car(99,"corolla altis","Toyota",2013,"Petrol","Manual");
     cars += new Car(100,"fortuner","Toyota",2010,"Diesel","Manual");
 
+    return cars.toList
   }
 }
 

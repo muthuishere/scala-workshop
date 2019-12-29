@@ -1,0 +1,13 @@
+
+# Uncomment the below lines andd add it on %SBT_HOME%\conf\sbtconfig.txt
+
+#-Dhttp.proxyHost=PROXYHOST 
+#-Dhttp.proxyPort=PROXYPORT 
+#-Dhttp.proxyUser=USERNAME 
+#-Dhttp.proxyPassword=XXXX
+#
+#
+#-Dhttps.proxyHost=PROXYHOST 
+#-Dhttps.proxyPort=PROXYPORT 
+#-Dhttps.proxyUser=USERNAME 
+#-Dhttps.proxyPassword=XXXX
