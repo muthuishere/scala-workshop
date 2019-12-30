@@ -4,4 +4,4 @@ mkdir lib project target
 
 # create an initial build.sbt file
 echo 'name := "MyProject"
-version := "1.0" > build.sbt
+version := "1.0"' > build.sbt
