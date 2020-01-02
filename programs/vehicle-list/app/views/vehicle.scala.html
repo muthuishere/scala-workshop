@@ -1,4 +1,6 @@
-@(vehicles: List[Vehicle])
+@(vehicles: List[Vehicle],vehicleForm:Form[Vehicle])(implicit messagesProvider:MessagesProvider)
+
+@import helper._
 
 <!DOCTYPE html>
 <html lang="en">
@@ -46,6 +48,20 @@
                 </table>
 
             </div>
+
+    //case class Vehicle (var sNo:Int,var name:String,var
+        manufacturer:String,var year:Int,var fuelType:String
+        ,var transmission:String)
+
+        @form(routes.VehicleController.newVehicle){
+    @inputText(vehicleForm("sNo"))
+    @inputText(vehicleForm("name"))
+    @inputText(vehicleForm("manufacturer"))
+    @inputText(vehicleForm("year"))
+    @inputText(vehicleForm("fuelType"))
+    @inputText(vehicleForm("transmission"))
+            <input type="submit" value="Add Vehicle">
+}
 
 
     </body>

@@ -6,6 +6,7 @@
 # An example controller showing a sample home page
 GET     /                           controllers.HomeController.index
 GET     /vehicles                           controllers.VehicleController.index
+POST     /vehicles                           controllers.VehicleController.newVehicle
 GET     /health                           controllers.HealthController.health
 GET     /about                           controllers.Default.redirect(to="https://www.infosys.com")
 
