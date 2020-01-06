@@ -1,1 +1,0 @@
-c:\windows\system32;c:\windows;c:\windows\System32\Wbem;c:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\Java\jdk1.8.0_231\jre\bin;c:\windows\System32\OpenSSH\;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\scala\bin

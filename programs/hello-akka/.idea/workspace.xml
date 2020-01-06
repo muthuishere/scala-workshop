@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7296c87c-705c-4ea8-a530-8b887da6dc24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CarEngine.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scala/programs/src/mainmethod/HelloWorld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scala/programs/src/mainmethod/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/sbt-dist/conf/sbtconfig.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/sbt-dist/conf/sbtopts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/sbt.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/src/main/scala/com/example/AkkaQuickstart.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../akka-quickstart-scala/src/test/scala/com/example/AkkaQuickstartSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/app/ErrorHandler.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/app/Module.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/app/RequestHandler.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/app/v1/post/PostActionBuilder.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/app/v1/post/PostController.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/app/v1/post/PostRepository.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/app/v1/post/PostResourceHandler.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/app/v1/post/PostRouter.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/conf/application.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/conf/generated.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/conf/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/conf/routes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/conf/secure.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/docs/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/docs/src/main/paradox/appendix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/docs/src/main/paradox/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/docs/src/main/paradox/part-1/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/gatling/src/test/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/gatling/src/test/scala/simulation/GatlingSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/project/Common.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/restapi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/scripts/test-sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/restapi/test/controllers/PostRouterSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/app/ErrorHandler.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/app/Module.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/app/RequestHandler.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/app/v1/post/PostActionBuilder.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/app/v1/post/PostController.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/app/v1/post/PostRepository.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/app/v1/post/PostResourceHandler.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/app/v1/post/PostRouter.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/conf/application.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/conf/generated.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/conf/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/conf/routes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/conf/secure.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/docs/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/docs/src/main/paradox/appendix.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/docs/src/main/paradox/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/docs/src/main/paradox/part-1/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/gatling/src/test/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/gatling/src/test/scala/simulation/GatlingSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/project/Common.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/project/plugins.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/scripts/test-sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../play/untitled/restful/test/controllers/PostRouterSpec.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scala/programs/src/HelloWorld.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scala.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../scala.pptx" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="23" selection-start-line="10" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/CarEngine.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-594">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.12.10/lib/scala-library.jar!/scala/App.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ping</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>wheel</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/HelloAkka.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/CarEngine.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="y" value="1" />
+    <option name="width" value="1932" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hello-akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-akka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-akka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-akka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-akka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hello-akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hello-akka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../play/vehicle-list" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PingPongTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Hello Akka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PingPongTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PingPongTest" />
+      <module name="Hello Akka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PingPongTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Hello Akka" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="hello-akka [file:/C:/muthu/gitworkspace/sessions/scala-play/code/akka/hello-akka/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Hello Akka-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3155293191809" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="4166124132" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="882899147" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../scala/calculator" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7296c87c-705c-4ea8-a530-8b887da6dc24" name="Default Changelist" comment="" />
+      <created>1577646599372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577646599372</updated>
+      <workItem from="1577646601587" duration="220000" />
+      <workItem from="1577681116493" duration="2456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2676000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1035" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32992035" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32992035" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="GraphQL" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Flutter Performance" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Flutter Inspector" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Flutter Outline" order="9" />
+      <window_info anchor="right" id="Clojure Deps" order="10" />
+      <window_info anchor="right" id="Gradle" order="11" />
+      <window_info anchor="right" id="Leiningen" order="12" />
+      <window_info anchor="right" id="Palette&#9;" order="13" />
+      <window_info anchor="right" id="Theme Preview" order="14" />
+      <window_info anchor="right" id="REPL" order="15" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.sbt/boot/scala-2.12.10/lib/scala-library.jar!/scala/App.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/CarEngine.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" selection-start-line="10" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
